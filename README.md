@@ -20,5 +20,8 @@ After encountering limitations with extractive summarization approach, the focus
 
 Therefore, he shift to abstractive summarization proved beneficial as it allowed the model to generate summaries that captured contextual information and word dependencies, resulting in more coherent and informative summaries compared to the extractive approach.
 
+# Conclusion
+In the exploration of text summarization models, two distinct approaches were developed: one relying on heuristics and the other utilizing deep recurrent neural networks. These approaches yielded markedly different results, highlighting the impact of methodology on the quality of summaries. Given more extensive training data, computational resources, and training time, improved performance can be anticipated. The comparison of the two approaches emphasized their respective strengths and weaknesses in generating summaries. Moving forward, the project's potential lies in further iterations of model training with increased data and exploration of advanced deep learning techniques such as transformers, particularly BERT.
+
 
 
